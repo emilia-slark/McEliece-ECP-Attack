@@ -1,4 +1,4 @@
-# https://www.desmos.com/calculator/ovf0ajk64s?lang=ru
+# https://www.desmos.com/calculator/aayenzttne
 def DecodeECP(y, A, B, C):
     code = codes.LinearCode(C)
     l, m = A.nrows(), B.nrows()
